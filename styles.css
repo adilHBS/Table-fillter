@@ -23,6 +23,7 @@ body {
     }
 
     table {
+      border: 1px solid #ddd;
       border-collapse: collapse;
       width: 100%;
       background-color: white;
